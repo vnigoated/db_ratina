@@ -1,4 +1,4 @@
-# DB Ratina
+# DB Retina
 
 A web application for retina image classification and medical explanation, built with React, TypeScript, Vite, and Tailwind CSS.
 
